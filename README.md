@@ -4,7 +4,7 @@
 
 Seja bem vindo ao teste para vaga de desenvolvedor .Net.
 
-Seu desafio será criar uma api rest a partir de um projeto inicial, porém sem controllers e classes, e nela você deverá também consumir uma Api publica utilizando HTTP client nativo.
+Seu desafio será criar uma api rest a partir de um projeto inicial, criando seus próprios controllers e classes, e nela você deverá também consumir uma Api publica utilizando HTTP client nativo.
 
 1. Utilize os verbos `GET`, `POST`, `PUT` e `DELETE` para sua api.
 
